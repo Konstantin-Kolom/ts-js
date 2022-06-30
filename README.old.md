@@ -6,3 +6,8 @@ npx create-react-app my-app
 
 npx create-react-app my-app --template typescript
 npx create-react-app . --template typescript
+
+
+https://www.typescriptlang.org/docs/handbook/intro.html
+
+https://www.typescriptlang.org/play
